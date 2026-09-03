@@ -1,27 +1,17 @@
-# Servi-os-de-entrega-da-kiki-mobile
-Repositório destinado ao aplicativo mobile do filme serviços de entrega da kiki 
+# Serviços de Entrega da Kiki - Mobile App
 
-# Projeto Mobile: Serviços de Entrega da Kiki
+## Alunos
 
----
-
-## Integrantes do Projeto
 * **Lorena Mansi**
 * **Miguel Fauzi Carvalho Santos**
 
----
+## Tema
 
-## Identificação do Tema do Aplicativo
-
- Aplicativo Mobile informativo e interativo focado na animação **"Serviços de Entrega da Kiki"** (*Kiki's Delivery Service* / *Majo no Takkyūbin*), produzida pelo Studio Ghibli e dirigida por Hayao Miyazaki.
-
----
+Aplicativo mobile focado no filme **"Serviços de Entrega da Kiki"** (Studio Ghibli, 1989). A aplicação apresenta o enredo, dados técnicos, a visão conceitual do diretor Hayao Miyazaki e a recepção do público através de críticas e avaliações. Todo o conteúdo é populado dinamicamente via arquivos JSON com arquitetura orientada a objetos.
 
 ## Sumário da Wiki
 
-A documentação detalhada das páginas e do protótipo está disponível na nossa Wiki oficial:
-
-1. [Página 1 — Dados do Filme]
-2. [Página 2 — Visão do Diretor & Bastidores]
-3. [Página 3 — Conheça a Obra Original (Livro)]
-4. [Página 4 — Avaliação do Filme]
+* [00-Home](https://github.com/MiguelFauzi10/Servi-os-de-entrega-da-kiki-mobile/wiki)
+* [01-Serviços de Entrega da Kiki](https://github.com/MiguelFauzi10/Servi-os-de-entrega-da-kiki-mobile/wiki/Servi%C3%A7os-de-Entrega-da-Kiki)
+* [02-Hayao Miyazaki e sua importância](https://github.com/MiguelFauzi10/Servi-os-de-entrega-da-kiki-mobile/wiki/Hayao-Miazaki-e-sua-import%C3%A2ncia)
+* [03-Protótipo](https://github.com/MiguelFauzi10/Servi-os-de-entrega-da-kiki-mobile/wiki/Prot%C3%B3tipo)
