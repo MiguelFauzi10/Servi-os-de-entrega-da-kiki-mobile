@@ -1,0 +1,74 @@
+{
+  "filme": {
+    "titulo": "Serviços de Entrega da Kiki",
+    "tituloOriginal": "Majo no Takkyubin",
+    "ano": "1989",
+    "duracao": "1h 43min",
+    "pais": "Japão",
+    "genero": "Animação, fantasia",
+    "sinopse": "Kiki é uma jovem bruxa de 13 anos que, seguindo uma tradição de sua família, precisa deixar sua casa e viver durante um ano em outra cidade. Acompanhada por seu gato Jiji, ela chega a uma cidade litorânea e começa a trabalhar com um serviço de entregas usando sua capacidade de voar. Durante essa nova fase de sua vida, Kiki precisa aprender a lidar com responsabilidades, independência e as dificuldades de crescer.",
+    "informacoesTecnicas": "Lançado no Japão em 29 de julho de 1989. Direção e roteiro de Hayao Miyazaki, baseado na obra de Eiko Kadono. Produção do Studio Ghibli.",
+    "linkImdb": "https://www.imdb.com/title/tt0097814/",
+    "linkOficial": "https://www.ghibli.jp/"
+  },
+
+  "diretor": {
+    "nome": "Hayao Miyazaki",
+    "biografia": "Hayao Miyazaki é um dos principais nomes da animação japonesa e um dos fundadores do Studio Ghibli. Como diretor, roteirista e animador, participou de diversas produções reconhecidas internacionalmente. Em Serviços de Entrega da Kiki, Miyazaki dirigiu e escreveu o roteiro, adaptando a obra de Eiko Kadono.",
+    "visaoSobreFilme": "O filme apresenta uma fase de crescimento e independência de uma jovem que precisa encontrar seu próprio caminho. A história acompanha as dificuldades de Kiki enquanto ela tenta se adaptar a uma nova cidade, trabalhar e descobrir novamente sua confiança.",
+    "linkProducao": "https://www.youtube.com/watch?v=t6-fT0hjTvc",
+    "linkOficial": "https://www.ghibli.jp/"
+  },
+
+  "elenco": [
+    {
+      "nome": "Minami Takayama",
+      "personagem": "Kiki"
+    },
+    {
+      "nome": "Rei Sakuma",
+      "personagem": "Jiji"
+    },
+    {
+      "nome": "Mieko Nobusawa",
+      "personagem": "Kokiri"
+    },
+    {
+      "nome": "Keiko Toda",
+      "personagem": "Osono"
+    },
+    {
+      "nome": "Kappei Yamaguchi",
+      "personagem": "Tombo"
+    }
+  ],
+
+  "curiosidades": [
+    "O filme foi lançado no Japão em 1989.",
+    "A história é baseada no livro de Eiko Kadono.",
+    "Hayao Miyazaki dirigiu e escreveu o roteiro da animação.",
+    "Kiki trabalha realizando entregas usando sua capacidade de voar.",
+    "Jiji é o gato preto que acompanha Kiki durante sua jornada."
+  ],
+
+  "avaliacoes": [
+    {
+      "comentario": "Uma animação que apresenta o crescimento de Kiki e sua tentativa de encontrar seu próprio lugar em uma nova cidade.",
+      "pontuacao": "9/10"
+    },
+    {
+      "comentario": "A história consegue misturar fantasia com situações relacionadas à independência e ao amadurecimento.",
+      "pontuacao": "8/10"
+    },
+    {
+      "comentario": "A relação entre Kiki, Jiji e os outros personagens ajuda a construir uma história simples e envolvente.",
+      "pontuacao": "9/10"
+    },
+    {
+      "comentario": "O filme apresenta uma cidade cheia de detalhes e uma protagonista que precisa aprender a lidar com suas responsabilidades.",
+      "pontuacao": "8/10"
+    }
+  ],
+
+  "linkAdoroCinema": "https://www.adorocinema.com/filmes/filme-4010/criticas/"
+}
