@@ -1,17 +1,17 @@
-# kikis_delivery_mobile
+# Serviços de Entrega da Kiki - Mobile App
 
-A new Flutter project.
+## Alunos
 
-## Getting Started
+* **Lorena Mansi**
+* **Miguel Fauzi Carvalho Santos**
 
-This project is a starting point for a Flutter application.
+## Tema
 
-A few resources to get you started if this is your first Flutter project:
+Aplicativo mobile focado no filme **"Serviços de Entrega da Kiki"** (Studio Ghibli, 1989). A aplicação apresenta o enredo, dados técnicos, a visão conceitual do diretor Hayao Miyazaki e a recepção do público através de críticas e avaliações. Todo o conteúdo é populado dinamicamente via arquivos JSON com arquitetura orientada a objetos.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Sumário da Wiki
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* [00-Home](https://github.com/MiguelFauzi10/Servi-os-de-entrega-da-kiki-mobile/wiki)
+* [01-Serviços de Entrega da Kiki](https://github.com/MiguelFauzi10/Servi-os-de-entrega-da-kiki-mobile/wiki/Servi%C3%A7os-de-Entrega-da-Kiki)
+* [02-Hayao Miyazaki e sua importância](https://github.com/MiguelFauzi10/Servi-os-de-entrega-da-kiki-mobile/wiki/Hayao-Miazaki-e-sua-import%C3%A2ncia)
+* [03-Protótipo](https://github.com/MiguelFauzi10/Servi-os-de-entrega-da-kiki-mobile/wiki/Prot%C3%B3tipo)
